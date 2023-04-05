@@ -9,9 +9,9 @@
   "assets": "1.8",
   "downloads": {
     "client": {
-      "sha1": "8f756d841d3ef5ab50caa759a7df6d39380bc67c",
-      "size": 10475312,
-      "url": "https://launcher.sonoyuncu.network/minecraft/game/client/8f756d841d3ef5ab50caa759a7df6d39380bc67c.bin"
+      "sha1": "f6291b12d4169999aeaa314020e0acb5df3430e4",
+      "size": 0,
+      "url": "https://ossuruk.com/"
     },
     "server": {
       "sha1": "b58b2ceb36e01bcd8dbf49c8fb66c55a9f0676cd",
